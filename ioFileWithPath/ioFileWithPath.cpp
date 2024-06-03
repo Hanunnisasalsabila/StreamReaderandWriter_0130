@@ -34,6 +34,7 @@ int main() {
             cout << baris << '\n';
         }
         infile.close();
-
     }
+    else cout << "Unable to open file";
+    return 0;
 }
