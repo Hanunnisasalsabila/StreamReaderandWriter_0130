@@ -18,3 +18,4 @@ int main() {
     outfile.close();
 
     ifstream infile;
+    infile.open("contohfile.txt");
