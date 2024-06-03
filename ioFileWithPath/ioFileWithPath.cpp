@@ -8,4 +8,6 @@ int main() {
     string NamaFile;
     cout << "Masukan Nama File : ";
     cin >> NamaFile;
+
+    ofstream outfile;
 }
